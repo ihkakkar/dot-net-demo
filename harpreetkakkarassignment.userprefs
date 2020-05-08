@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2CFA5B63-97B5-4E30-87EF-2397C1E7A67B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="harpreetkakkarassignment/Startup.cs">
+    <Files>
+      <File FileName="harpreetkakkarassignment/Controllers/ValuesController.cs" Line="10" Column="47" />
+      <File FileName="harpreetkakkarassignment/Controllers/PackageController.cs" Line="23" Column="1" />
+      <File FileName="harpreetkakkarassignment/Startup.cs" Line="3" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.harpreetkakkarassignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
